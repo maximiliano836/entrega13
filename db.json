@@ -1,4 +1,4 @@
-[
+{ "personas": [
 	{
 		"name": "Madonna Jordan",
 		"phone": "(807) 276-9331",
@@ -25,3 +25,4 @@
 		"country": "China"
 	}
 ]
+}
