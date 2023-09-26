@@ -1,4 +1,4 @@
-{ "personas": [
+{ "personas":[
 	{
 		"name": "Rooney Turner",
 		"phone": "1-631-126-7179",
@@ -149,5 +149,4 @@
 		"phone": "(255) 394-2185",
 		"country": "Germany"
 	}
-]
-}
+]}
